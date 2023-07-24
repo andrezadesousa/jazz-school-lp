@@ -15,7 +15,7 @@ O layout é da One Bit Code, mas estou fazendo meus ajustes em cores, tipografia
 
 <div style="display: inline">
   <img align="left" width="600" height="600"  src="https://github.com/andrezadesousa/jazz-school-lp/blob/main/img/desktop.jpg" />
-  <div align="center">
+  <div align="right">
     <img src="https://github.com/andrezadesousa/jazz-school-lp/blob/main/img/mobile.jpg" />
   </div>
 </div>
