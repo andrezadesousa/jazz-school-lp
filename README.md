@@ -14,7 +14,7 @@ Para esse proejto eu utilizei as seguintes tecnologias:
 O layout é da One Bit Code, mas estou fazendo meus ajustes em cores, tipografia e imagens. UI/UX, por favor, tenha calma, sou apenas uma iniciante hehehe:
 
 <div style="display: inline">
-  <img align="left" width="600" height="600"  src="https://github.com/andrezadesousa/jazz-school-lp/blob/main/img/desktop.jpg" />
+  <img align="left" width="500" height="600"  src="https://github.com/andrezadesousa/jazz-school-lp/blob/main/img/desktop.jpg" />
   <div align="right">
     <img src="https://github.com/andrezadesousa/jazz-school-lp/blob/main/img/mobile.jpg" />
   </div>
